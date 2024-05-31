@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CA-3" target="17" />
+      <module name="CA-3-NoteWebPage-Backend" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
