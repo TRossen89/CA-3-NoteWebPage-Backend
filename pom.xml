@@ -171,8 +171,7 @@
                             <goal>write-project-properties</goal>
                         </goals>
                         <configuration>
-                            <outputFile>
-                                ${project.build.outputDirectory}/properties-from-pom.properties</outputFile>
+                            <outputFile>${project.build.outputDirectory}/properties-from-pom.properties</outputFile>
                         </configuration>
                     </execution>
                 </executions>
@@ -195,13 +194,13 @@
                 <configuration>
                     <transformers>
                         <transformer
-                            implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                             <mainClass>
                                 <!-- ========================================================= -->
-                                <!-- The plugin needs to know which class has the main method  -->
-                                <!-- therefore we need to specify the path to the main class   -->
+                                <!-- The plugin needs to know which class has the Main method  -->
+                                <!-- therefore we need to specify the path to the Main class   -->
                                 <!-- ========================================================= -->
-                                notes/main
+                                notes/Main
                             </mainClass>
                         </transformer>
                     </transformers>
