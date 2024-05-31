@@ -30,7 +30,7 @@ public class Main {
                 .setRoute(Routs.securedRoutes(emf))
             ;
 
-        //FIRST PUSH TO GIT MED DOCKERHUB
+        //SECOND PUSH TO GIT WITH DOCKERHUB
     }
     
 
