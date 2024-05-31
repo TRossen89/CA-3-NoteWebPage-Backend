@@ -11,7 +11,7 @@ C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\dtos\UserDTO.jav
 C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\exceptions\NotAuthorizedException.java
 C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\config\HibernateConfig.java
 C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\exceptions\EntityNotFoundException.java
-C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\main.java
+C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\Main.java
 C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\dtos\NoteDTO.java
 C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\ressources\ISecurityUser.java
 C:\Users\acm11\Dev\CA-3-NoteWebPage-Backend\src\main\java\notes\daos\UserDAO.java
